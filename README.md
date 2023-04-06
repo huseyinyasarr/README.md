@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 🙋🏻‍♂, Ben Hüseyin YAŞAR</h1>
-<h3 align="center">RTEÜ Bilgisayar Mühendisliği öğrencisiyim.</h3>
+<h3 align="center">RTEÜ Bilgisayar Mühendisliği</h3>
 
 - ✉ İletişim: **h.yasar.tr@gmail.com**
 
