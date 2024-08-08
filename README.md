@@ -4,7 +4,7 @@
 
 
 <h1 align="center">Merhaba, ben Hüseyin Yaşar</h1>
-<h3 align="center">Software Developer - Bilgisayar Mühendisliği Öğrencisi</h3>
+<h3 align="center">Bilgisayar Mühendisliği Öğrencisi</h3>
 
 
 
