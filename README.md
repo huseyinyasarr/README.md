@@ -8,7 +8,6 @@
 
 
 
-
 <h3 align="left">Connect with me:</h3>
 <p align="left"> <a href="https://mail.google.com/mail/?view=cm&fs=1&to=h.yasar.tr@gmail.com&body=Merhaba," target="blank"><img align="center" src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" alt="hüseyin-yasar" height="27" width="36" /></a> <a href="https://linkedin.com/in/hüseyin-yasar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hüseyin-yasar" height="30" width="40" /></a>
 
