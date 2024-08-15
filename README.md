@@ -25,5 +25,7 @@
 <!--
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=huseyinyasarr&show_icons=true&locale=tr" alt="huseyinyasarr" /></p>
 -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=huseyinyasarr)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huseyinyasarr&theme=transparent&locale=tr)](https://git.io/streak-stats)
+
+
 
