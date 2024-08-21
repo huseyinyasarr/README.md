@@ -25,6 +25,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=huseyinyasarr&theme=transparent&hide_border=true&locale=tr)](https://git.io/streak-stats)
 
+<!--
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huseyinyasarr&locale=tr&show_icons=true&hide_border=true&bg_color=00005000)
-
+-->
 
